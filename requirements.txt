@@ -1,0 +1,5 @@
+tweepy==4.14.0        # Twitter API wrapper
+requests==2.31.0       # HTTP requests
+schedule==1.2.0        # Task scheduling
+python-dateutil==2.8.2 # Date parsing
+pytz==2023.3          # Timezone handling
